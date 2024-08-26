@@ -5,6 +5,10 @@ Meu nome é Natalia de Abreu Araujo
 - Estou estudando na alura
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
+
 - ### você pode entrar em contato comigo: 000001108542517sp@al.educacao.sp.gov.br
+
 - @naraujo_08
-- 
+
+![]{https://tenor.com/cmDbln3jlqr.gif}
+
