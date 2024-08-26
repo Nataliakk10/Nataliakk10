@@ -2,7 +2,7 @@
 
 Meu nome é Natalia de Abreu Araujo💙
 
-- Estou estudando na alura
+- Estou estudando na [Alura](https://.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
@@ -10,4 +10,6 @@ Meu nome é Natalia de Abreu Araujo💙
 
 000001108542517sp@al.educacao.sp.gov.br
 
-@naraujo_08
+@naraujo_08 
+
+![]()
