@@ -1,14 +1,13 @@
 ### Boas vindas ao meu perfil 
 
-Meu nome é Natalia de Abreu Araujo
+Meu nome é Natalia de Abreu Araujo💙
 
 - Estou estudando na alura
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- ### você pode entrar em contato comigo: 000001108542517sp@al.educacao.sp.gov.br
+- ### você pode entrar em contato comigo 📬
 
-- @naraujo_08
+000001108542517sp@al.educacao.sp.gov.br
 
-![]{https://tenor.com/cmDbln3jlqr.gif}
-
+@naraujo_08
